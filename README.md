@@ -14,10 +14,10 @@ V. We are constantly <a href="https://drive.google.com/drive/folders/10GZ-TF8icr
 
 VI. We are constantly <a href="https://drive.google.com/drive/folders/10GZ-TF8icrb5IkwkoGbpZtSsFEaPhp-J?usp=sharing"> creating</a>.
 
-VII. We are <a href="https://drive.google.com/drive/folders/10GZ-TF8icrb5IkwkoGbpZtSsFEaPhp-J?usp=sharing"> programming </a> everyday.
+VII. We <a href="https://drive.google.com/drive/folders/10GZ-TF8icrb5IkwkoGbpZtSsFEaPhp-J?usp=sharing"> programme </a> everyday.
 
-VIII. We are <a href="https://drive.google.com/drive/folders/10GZ-TF8icrb5IkwkoGbpZtSsFEaPhp-J?usp=sharing"> channelling </a> everyday.
+VIII. We <a href="https://drive.google.com/drive/folders/10GZ-TF8icrb5IkwkoGbpZtSsFEaPhp-J?usp=sharing"> channel </a> everyday.
 
-IX. We <a href="https://drive.google.com/drive/folders/10GZ-TF8icrb5IkwkoGbpZtSsFEaPhp-J?usp=sharing"> excite-you </a> everyday.
+IX. We <a href="https://drive.google.com/drive/folders/10GZ-TF8icrb5IkwkoGbpZtSsFEaPhp-J?usp=sharing"> excite </a> everyday.
 
 X. We are <a href="https://drive.google.com/drive/folders/10GZ-TF8icrb5IkwkoGbpZtSsFEaPhp-J?usp=sharing"> VINCENT!</a>.
