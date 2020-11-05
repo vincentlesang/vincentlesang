@@ -1,6 +1,6 @@
-#YOUR-EMPIRE
+#BECOME-ICONIC
 
-Why -VINCENT-Lesang__-- is the next Global Media Empire?
+-VINCENT-Lesang__-- brings Technology to Publishing
 
 I. We are <a href="https://drive.google.com/drive/folders/10GZ-TF8icrb5IkwkoGbpZtSsFEaPhp-J?usp=sharing"> publishing </a> bi-monthly.
 
@@ -20,4 +20,4 @@ VIII. We <a href="https://drive.google.com/drive/folders/10GZ-TF8icrb5IkwkoGbpZt
 
 IX. We <a href="https://drive.google.com/drive/folders/10GZ-TF8icrb5IkwkoGbpZtSsFEaPhp-J?usp=sharing"> excite </a> everyday.
 
-X. We are <a href="https://drive.google.com/drive/folders/10GZ-TF8icrb5IkwkoGbpZtSsFEaPhp-J?usp=sharing"> VINCENT!</a>.
+X. We are <a href="https://drive.google.com/drive/folders/1SCPLuuEhJSFEz5O7PWe5rrMD9rRf8KfZ"> VINCENT!</a>.
