@@ -21,7 +21,3 @@ VIII. We <a href="https://drive.google.com/drive/folders/10GZ-TF8icrb5IkwkoGbpZt
 IX. We <a href="https://drive.google.com/drive/folders/10GZ-TF8icrb5IkwkoGbpZtSsFEaPhp-J?usp=sharing"> excite </a> everyday.
 
 X. We are <a href="https://drive.google.com/drive/folders/1SCPLuuEhJSFEz5O7PWe5rrMD9rRf8KfZ"> Vincent</a>.
-
-
-  <p>Click <a href="javascript:makeDocument()">here</a> to create a new document and insert it below.</p>
-  <iframe id="theFrame" src="about:blank" />
