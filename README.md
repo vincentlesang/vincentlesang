@@ -6,11 +6,11 @@
 
 <div style="display: inline-block;">
 
-<img style="display: inline; margin: 0 5px;" title="heartica_logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" alt="" width="200" height="40">
+<img style="display: inline; margin: 0 5px;" title="heartica_logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" alt="" width="80" height="40">
 
-<img style="display: inline; margin: 0 5px;" title="heartica_logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" alt="" width="100" height="40">
+<img style="display: inline; margin: 0 5px;" title="heartica_logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" alt="" width="80" height="40">
 
-<img style="display: inline; margin: 0 5px;" title="heartica_logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" alt="" width="100" height="40">
+<img style="display: inline; margin: 0 5px;" title="heartica_logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" alt="" width="80" height="40">
 
 
 </div> 
