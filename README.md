@@ -4,6 +4,11 @@
 
 We are <a href="https://drive.google.com/drive/folders/1SCPLuuEhJSFEz5O7PWe5rrMD9rRf8KfZ"> Vincent</a>.
 
-<img src="https://drive.google.com/drive/folders/1SCPLuuEhJSFEz5O7PWe5rrMD9rRf8KfZ/logosubs.png" alt="VINCENT Lesang">.
+We are <a href="https://drive.google.com/drive/folders/1SCPLuuEhJSFEz5O7PWe5rrMD9rRf8KfZ/logosubs.png"> Vincent</a>.
 
-<img src="https://drive.google.com/file/d/1juUS2IoRR_9XhTUYbCYUrAkNLWeEkryx/view?usp=sharing" alt="VINCENT">.
+
+<img href="https://drive.google.com/drive/folders/1SCPLuuEhJSFEz5O7PWe5rrMD9rRf8KfZ/logosubs.png" alt="VINCENT Lesang" width=600 height=200>.
+
+<img src="https://drive.google.com/drive/folders/1SCPLuuEhJSFEz5O7PWe5rrMD9rRf8KfZ/logosubs.png" alt="VINCENT Lesang" width=600 height=200>.
+
+<img src="https://drive.google.com/file/d/1juUS2IoRR_9XhTUYbCYUrAkNLWeEkryx/view?usp=sharing" alt="VINCENT" width=600 height=200>.
