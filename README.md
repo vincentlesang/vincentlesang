@@ -6,11 +6,11 @@
 
 <div style="display: inline-block; align: center; justify-content: center; text-align: center;">
 
-<img style="display: inline; margin: 0 5px; align: center; justify-content: center; text-align: center;" title="heartica_logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" alt="" width="80" height="40"> 
+<img style="display: inline; margin: 0 5px; align: center; justify-content: center; text-align: center;" title="heartica_logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" alt="" width="30" height="17"> 
 
-<img style="display: inline; margin: 0 5px; align: center; justify-content: center; text-align: center;" title="heartica_logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" alt="" width="80" height="40">  
+<img style="display: inline; margin: 0 5px; align: center; justify-content: center; text-align: center;" title="heartica_logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" alt="" width="30" height="17">  
 
-<img style="display: inline; margin: 0 5px; align: center; justify-content: center; text-align: center;" title="heartica_logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" alt="" width="80" height="40"> 
+<img style="display: inline; margin: 0 5px; align: center; justify-content: center; text-align: center;" title="heartica_logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" alt="" width="30" height="17"> 
 
 
 </div> 
