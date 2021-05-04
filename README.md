@@ -12,7 +12,7 @@
 <div style="display: inline; margin: 0 5px;  
             border-radius: 40px; 
             position: relative;
-            left: 10px;
+            left: 30px;
             bottom: 10px;
             background: #FF0000;
             box-shadow: 13px 13px 20px #cbced1,
@@ -33,7 +33,7 @@
  <div style="display: inline; margin: 0 5px;  
             border-radius: 30px; 
             position: relative;
-            left: 170px;
+            left: 150px;
             bottom: 10px;
             background: #00FFFF;
             box-shadow: 13px 13px 20px #cbced1,
@@ -42,8 +42,8 @@
 
 </div>
 
-<img style="display: inline; margin: 0 5px; justify-content: center; text-align: center; position: relative;
-            top: 10px;" title="score" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" width="60" height="34"> 
+<img style="justify-content: center; text-align: center; position: absolute;
+            top: 5px;" title="logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" width="60" height="34"> 
 
 </div> 
 
