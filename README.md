@@ -9,7 +9,7 @@
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
             title="showcard">         
-<div style="display: inline-block; top: 200px; width:210px; height: 120px;  
+<div style="display: inline-block; top: 180px; width:210px; height: 120px;  
             border-radius: 40px; 
             position: relative;
             left: 1px;
@@ -21,7 +21,7 @@
 <div style="display: inline-block; top: 0px; width:210px; height: 210px;   
             border-radius: 50%; 
             position: relative;
-            left: 200px;
+            left: 210px;
             background: #FF7F00;
             linear-gradient(360, white, #FF7F00);
             box-shadow: 13px 13px 20px #cbced1,
@@ -31,7 +31,7 @@
  <div style="display: inline-block; top: 0px; width:210px; height: 120px;  
             border-radius: 30px; 
             position: relative;
-            left: 200px;
+            left: 230px;
             background: #00FFFF;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
