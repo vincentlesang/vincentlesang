@@ -12,7 +12,7 @@
 <div style="display: inline-block; bottom: 1px; width:210px; height: 120px;  
             border-radius: 40px; 
             position: relative;
-            left: 10px;
+            left: 5px;
             background: #FF0000;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
@@ -31,7 +31,7 @@
  <div style="display: inline-block; bottom: 1px; width:210px; height: 120px;  
             border-radius: 30px; 
             position: relative;
-            left: 230px;
+            left: 200px;
             background: #00FFFF;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
