@@ -9,7 +9,7 @@
             -13px -13px 20px #ffffff"
             title="showcard" alt="themachine" width="60" height="34">  
             
-<div style="display: inline; margin: 0 5px; justify-content: center; text-align: center; 
+<div style="display: inline; margin: 0 10px;  
             width:40px; height: 70px; padding: 60px 35px 35px;
             border-radius: 40px; 
             background: #FF0000;
@@ -17,15 +17,16 @@
             -13px -13px 20px #ffffff"
             title="mark" alt="mark" width="60" height="34"> 
             
-<div style="display: inline; margin: 0 5px; justify-content: center; text-align: center; 
+<div style="display: inline; margin: 15 25px;  
             width:60px; height: 60px; padding: 60px 35px 35px;
             border-radius: 0.5; 
             background: #FF7F00;
+            linear-gradient(360deg, white, orange);
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
             title="hold" alt="hold" width="60" height="34"> 
             
- <div style="display: inline; margin: 0 5px; justify-content: center; text-align: center; 
+ <div style="display: inline; margin: 30 40px;  
             width:40px; height: 70px; padding: 60px 35px 35px;
             border-radius: 10px; 
             background: #00FFFF;
