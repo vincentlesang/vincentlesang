@@ -9,32 +9,29 @@
             -13px -13px 20px #ffffff"
             title="showcard">  
             
-<div style="display: inline-block; width:210px; height: 120px;  
+<div style="display: inline-block; bottom: 5px; width:210px; height: 120px;  
             border-radius: 40px; 
             position: relative;
             left: 50px;
-            bottom: 10px;
             background: #FF0000;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
             title="mark" alt="mark" > 
             
-<div style="display: inline-block; width:210px; height: 210px;   
+<div style="display: inline-block; bottom: 5px; width:210px; height: 210px;   
             border-radius: 50%; 
             position: relative;
-            left: 150px;
-            bottom: 10px;
+            left: 50px;
             background: #FF7F00;
             linear-gradient(360deg, white, #FF7F00);
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
             title="hold" alt="hold"> 
             
- <div style="display: inline-block; width:210px; height: 120px;  
+ <div style="display: inline-block; bottom: 5px; width:210px; height: 120px;  
             border-radius: 30px; 
             position: relative;
-            left: 250px;
-            bottom: 10px;
+            left: 50px;
             background: #00FFFF;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
@@ -43,7 +40,7 @@
 </div>
 
 <img style="justify-content: center; text-align: center; position: absolute;
-            bottom: 1px;" title="logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" width="120" height="68"> 
+            top: 1px;" title="logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" width="120" height="68"> 
 
 </div> 
 
