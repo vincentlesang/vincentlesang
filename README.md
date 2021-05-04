@@ -7,7 +7,7 @@
             background: #ecf0f3;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
-            title="hold" alt="hold" width="60" height="34">  
+            title="showcard" alt="themachine" width="60" height="34">  
             
 <div style="display: inline; margin: 0 5px; justify-content: center; text-align: center; 
             width:40px; height: 70px; padding: 60px 35px 35px;
@@ -15,7 +15,7 @@
             background: #ecfff3;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
-            title="mark" alt="hold" width="60" height="34"> 
+            title="mark" alt="mark" width="60" height="34"> 
             
 <div style="display: inline; margin: 0 5px; justify-content: center; text-align: center; 
             width:70px; height: 40px; padding: 60px 35px 35px;
@@ -23,7 +23,7 @@
             background: #ecfff1;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
-            title="mark" alt="hold" width="60" height="34"> 
+            title="hold" alt="hold" width="60" height="34"> 
             
  <div style="display: inline; margin: 0 5px; justify-content: center; text-align: center; 
             width:40px; height: 70px; padding: 60px 35px 35px;
@@ -31,7 +31,7 @@
             background: #ecf0f3;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
-            title="mark" alt="hold" width="60" height="34"> 
+            title="score" alt="score" width="60" height="34"> 
 
 </div>
 
