@@ -9,7 +9,7 @@
             -13px -13px 20px #ffffff"
             title="showcard">  
             
-<div style="margin: 0 5px;  
+<div style="display: inline-block; margin: 0 5px;  
             border-radius: 40px; 
             position: relative;
             left: 30px;
@@ -19,7 +19,7 @@
             -13px -13px 20px #ffffff"
             title="mark" alt="mark" width="120" height="120"> 
             
-<div style="margin: 0 5px;  
+<div style="display: inline-block; margin: 0 5px;  
             border-radius: 0.5; 
             position: relative;
             left: 90px;
@@ -30,7 +30,7 @@
             -13px -13px 20px #ffffff"
             title="hold" alt="hold" width="60" height="60"> 
             
- <div style="margin: 0 5px;  
+ <div style="display: inline-block; margin: 0 5px;  
             border-radius: 30px; 
             position: relative;
             left: 150px;
