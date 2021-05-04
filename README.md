@@ -10,20 +10,20 @@
             title="showcard" alt="themachine" width="60" height="34">  
             
 <div style="display: inline; margin: 0 5px;  
-            width:40px; height: 70px; padding: 60px 35px 35px;
+            width:4px; height: 7px; padding: 60px 35px 35px;
             border-radius: 40px; 
             position: relative;
-            left: 100px;
+            left: 10px;
             background: #FF0000;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
             title="mark" alt="mark" width="60" height="34"> 
             
 <div style="display: inline; margin: 0 5px;  
-            width:60px; height: 60px; padding: 60px 35px 35px;
+            width:6px; height: 6px; padding: 60px 35px 35px;
             border-radius: 0.5; 
             position: relative;
-            left: 200px;
+            left: 20px;
             background: #FF7F00;
             linear-gradient(360deg, white, orange);
             box-shadow: 13px 13px 20px #cbced1,
@@ -31,10 +31,10 @@
             title="hold" alt="hold" width="60" height="34"> 
             
  <div style="display: inline; margin: 0 5px;  
-            width:40px; height: 70px; padding: 60px 35px 35px;
+            width:4px; height: 7px; padding: 60px 35px 35px;
             border-radius: 10px; 
             position: relative;
-            top: 300px;
+            top: 30px;
             background: #00FFFF;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
