@@ -9,7 +9,7 @@
             -13px -13px 20px #ffffff"
             title="showcard">  
             
-<div style="display: inline-block; width:120px; height: 210px; margin: 0 5px;  
+<div style="display: inline-block; width:210px; height: 120px;  
             border-radius: 40px; 
             position: relative;
             left: 50px;
@@ -19,8 +19,8 @@
             -13px -13px 20px #ffffff"
             title="mark" alt="mark" > 
             
-<div style="display: inline-block; width:120px; height: 120px;  margin: 0 5px;  
-            border-radius: 0.5; 
+<div style="display: inline-block; width:210px; height: 210px;   
+            border-radius: 50%; 
             position: relative;
             left: 150px;
             bottom: 10px;
@@ -30,7 +30,7 @@
             -13px -13px 20px #ffffff"
             title="hold" alt="hold"> 
             
- <div style="display: inline-block; width:120px; height: 210px; margin: 0 5px;  
+ <div style="display: inline-block; width:210px; height: 120px;  
             border-radius: 30px; 
             position: relative;
             left: 250px;
@@ -43,7 +43,7 @@
 </div>
 
 <img style="justify-content: center; text-align: center; position: absolute;
-            top: 5px;" title="logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" width="60" height="34"> 
+            bottom: 1px;" title="logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" width="120" height="68"> 
 
 </div> 
 
