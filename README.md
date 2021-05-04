@@ -14,6 +14,7 @@
             border-radius: 40px; 
             position: relative;
             left: 10px;
+            bottom: 10px;
             background: #FF0000;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
@@ -24,6 +25,7 @@
             border-radius: 0.5; 
             position: relative;
             left: 90px;
+            bottom: 10px;
             background: #FF7F00;
             linear-gradient(360deg, white, orange);
             box-shadow: 13px 13px 20px #cbced1,
@@ -35,6 +37,7 @@
             border-radius: 30px; 
             position: relative;
             left: 170px;
+            bottom: 10px;
             background: #00FFFF;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
@@ -42,7 +45,8 @@
 
 </div>
 
-<img style="display: inline; margin: 0 5px; justify-content: center; text-align: center;" title="score" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" width="60" height="34"> 
+<img style="display: inline; margin: 0 5px; justify-content: center; text-align: center; position: relative;
+            top: 10px;" title="score" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" width="60" height="34"> 
 
 </div> 
 
