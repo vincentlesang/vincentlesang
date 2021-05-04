@@ -9,16 +9,16 @@
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
             title="showcard">         
-<div style="display: inline-block; bottom: 1px; width:210px; height: 120px;  
+<div style="display: inline-block; top: 200px; width:210px; height: 120px;  
             border-radius: 40px; 
             position: relative;
-            left: 5px;
+            left: 1px;
             background: #FF0000;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
             title="mark" alt="mark" > 
             
-<div style="display: inline-block; bottom: 1px; width:210px; height: 210px;   
+<div style="display: inline-block; top: 200px; width:210px; height: 210px;   
             border-radius: 50%; 
             position: relative;
             left: 200px;
@@ -28,7 +28,7 @@
             -13px -13px 20px #ffffff"
             title="hold" alt="hold"> 
             
- <div style="display: inline-block; bottom: 1px; width:210px; height: 120px;  
+ <div style="display: inline-block; top: 200px; width:210px; height: 120px;  
             border-radius: 30px; 
             position: relative;
             left: 200px;
