@@ -14,7 +14,7 @@
 <div style="display: inline-block; bottom: 5px; width:210px; height: 120px;  
             border-radius: 40px; 
             position: relative;
-            left: 100px;
+            left: 50px;
             background: #FF0000;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
@@ -23,7 +23,7 @@
 <div style="display: inline-block; bottom: 5px; width:210px; height: 210px;   
             border-radius: 50%; 
             position: relative;
-            left: 150px;
+            left: 200px;
             background: #FF7F00;
             linear-gradient(360deg, white, #FF7F00);
             box-shadow: 13px 13px 20px #cbced1,
@@ -33,7 +33,7 @@
  <div style="display: inline-block; bottom: 5px; width:210px; height: 120px;  
             border-radius: 30px; 
             position: relative;
-            left: 150px;
+            left: 300px;
             background: #00FFFF;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
