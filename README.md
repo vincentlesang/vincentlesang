@@ -9,7 +9,7 @@
             -13px -13px 20px #ffffff"
             title="showcard">  
             
-<div style="display: inline-block; margin: 0 5px;  
+<div style="display: inline-block; width:40px; height: 70px; margin: 0 5px;  
             border-radius: 40px; 
             position: relative;
             left: 30px;
@@ -17,9 +17,9 @@
             background: #FF0000;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
-            title="mark" alt="mark" width="120" height="120"> 
+            title="mark" alt="mark" > 
             
-<div style="display: inline-block; margin: 0 5px;  
+<div style="display: inline-block; width:40px; height: 40px;  margin: 0 5px;  
             border-radius: 0.5; 
             position: relative;
             left: 90px;
@@ -28,9 +28,9 @@
             linear-gradient(360deg, white, #FF7F00);
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
-            title="hold" alt="hold" width="60" height="60"> 
+            title="hold" alt="hold"> 
             
- <div style="display: inline-block; margin: 0 5px;  
+ <div style="display: inline-block; width:40px; height: 70px; margin: 0 5px;  
             border-radius: 30px; 
             position: relative;
             left: 150px;
@@ -38,7 +38,7 @@
             background: #00FFFF;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
-            title="score" alt="score" width="120" height="60"> 
+            title="score" alt="score"> 
 
 </div>
 
