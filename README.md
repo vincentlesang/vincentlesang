@@ -10,7 +10,7 @@
             -13px -13px 20px #ffffff"
             title="showcard">         
 <div style="display: inline-block; top: 180px; width:210px; height: 120px;  
-            border-radius: 40px; 
+            border-radius: 60px; 
             position: relative;
             left: 1px;
             background: #FF0000;
