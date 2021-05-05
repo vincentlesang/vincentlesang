@@ -21,7 +21,7 @@
             -13px -13px 20px #ffffff"
             title="r" alt="r"> 
             
-<div style="display: inline-block; top: 160px; width:157.5px; height: 90px;  
+<div style="display: inline-block; top: 140px; width:157.5px; height: 90px;  
             border-radius: 60px; 
             position: relative;
             left: 5px;
