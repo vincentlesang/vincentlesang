@@ -40,7 +40,7 @@
 <div style="display: inline-block; top: -50px; width:230px; height: 230px;   
             border-radius: 50%; 
             position: relative;
-            left: 150px;
+            left: 166px;
             margin-right: 3px;
             margin-left: 24px;
             background: repeating-radial-gradient(
