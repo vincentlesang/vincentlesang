@@ -36,10 +36,12 @@
             -13px -13px 20px #ffffff"
             title="mark" alt="mark" > 
             
-<div style="display: inline-block; top: -45px; width:262.5px; height: 262.5px;   
+<div style="display: inline-block; top: -45px; width:245px; height: 245px;   
             border-radius: 50%; 
             position: relative;
             left: 225px;
+            margin-right: 20px;
+            margin-left: 20px;
             background: repeating-radial-gradient(
              circle,
              #ffb347,
