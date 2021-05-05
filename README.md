@@ -3,7 +3,7 @@
 <img style="justify-content: center; text-align: center; position: absolute;
             top: 1px;" title="logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" width="120" height="68"> 
 
-<div style="width:700px; height: 400px; padding: 60px 35px 35px;
+<div style="width:700px; height: 400px; padding: 60px 3px 5px;
             border-radius: 40px; 
             background: #ecf0f3;
             box-shadow: 13px 13px 20px #cbced1,
