@@ -11,6 +11,7 @@
             title="showcard">         
 <div style="display: inline-block; top: 180px; width:157.5px; height: 90px;  
             border-radius: 60px; 
+            overflow: hidden;
             position: relative;
             left: 3px;
             background: #FF0000;
@@ -20,6 +21,7 @@
             
 <div style="display: inline-block; top: -30px; width:157.5px; height: 157.5px;   
             border-radius: 50%; 
+            overflow: hidden;
             position: relative;
             left: 225px;
             background: radial-gradient(#ffb347, orange);
