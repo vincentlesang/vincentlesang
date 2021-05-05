@@ -40,9 +40,9 @@
 <div style="display: inline-block; top: -50px; width:230px; height: 230px;   
             border-radius: 50%; 
             position: relative;
-            left: 192px;
+            left: 162px;
             margin-right: 3px;
-            margin-left: 12px;
+            margin-left: 24px;
             background: repeating-radial-gradient(
              circle,
              #ffb347,
