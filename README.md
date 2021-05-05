@@ -27,6 +27,16 @@
             -13px -13px 20px #ffffff"
             title="hold" alt="hold"> 
             
+<div style="display: inline-block; top: -30px; width:157.5px; height: 157.5px;   
+            border-radius: 50%; 
+            overflow: hidden;
+            position: relative;
+            left: 225px;
+            background: radial-gradient(#ffb347, black);
+            box-shadow: 13px 13px 20px #cbced1,
+            -13px -13px 20px #ffffff"
+            title="r" alt="r"> 
+            
  <div style="display: inline-block; top: 30px; width:157.5px; height: 90px;  
             border-radius: 30px; 
             position: relative;
