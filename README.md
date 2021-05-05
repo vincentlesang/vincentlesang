@@ -21,7 +21,7 @@
 <div style="display: inline-block; top: -30px; width:210px; height: 210px;   
             border-radius: 50%; 
             position: relative;
-            left: 220px;
+            left: 225px;
             background: #FF7F00;
             linear-gradient(360deg, white, orange);
             box-shadow: 13px 13px 20px #cbced1,
