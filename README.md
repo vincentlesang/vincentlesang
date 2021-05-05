@@ -3,16 +3,6 @@
 <img style="justify-content: center; text-align: center; position: absolute;
             top: 1px;" title="logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" width="120" height="68"> 
             
-<div style="justify-content: center; width:157.5px; height: 157.5px;   
-            border-radius: 50%; 
-            overflow: hidden;
-            position: relative;
-            left: 225px;
-            background: radial-gradient(#ffb347, black);
-            box-shadow: 13px 13px 20px #cbced1,
-            -13px -13px 20px #ffffff"
-            title="r" alt="r"> 
-</div>
 
 <div style="width:700px; height: 400px; padding: 60px 3px 5px;
             border-radius: 40px; 
@@ -21,7 +11,17 @@
             -13px -13px 20px #ffffff"
             title="showcard">
             
-<div style="display: inline-block; top: 180px; width:157.5px; height: 90px;  
+<div style="display: inline-block; top: 90px; width:157.5px; height: 157.5px;   
+            border-radius: 50%; 
+            overflow: hidden;
+            position: relative;
+            left: 225px;
+            background: radial-gradient(#ffb347, black);
+            box-shadow: 13px 13px 20px #cbced1,
+            -13px -13px 20px #ffffff"
+            title="r" alt="r"> 
+            
+<div style="display: inline-block; top: 90px; width:157.5px; height: 90px;  
             border-radius: 60px; 
             overflow: hidden;
             position: relative;
