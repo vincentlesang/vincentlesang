@@ -9,7 +9,7 @@
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
             title="showcard">         
-<div style="display: inline-block; top: 180px; width:105px; height: 60px;  
+<div style="display: inline-block; top: 180px; width:157.5px; height: 90px;  
             border-radius: 60px; 
             position: relative;
             left: 1px;
@@ -18,7 +18,7 @@
             -13px -13px 20px #ffffff"
             title="mark" alt="mark" > 
             
-<div style="display: inline-block; top: -30px; width:105px; height: 105px;   
+<div style="display: inline-block; top: -30px; width:157.5px; height: 157.5px;   
             border-radius: 50%; 
             position: relative;
             left: 225px;
@@ -27,7 +27,7 @@
             -13px -13px 20px #ffffff"
             title="hold" alt="hold"> 
             
- <div style="display: inline-block; top: 30px; width:105px; height: 60px;  
+ <div style="display: inline-block; top: 30px; width:157.5px; height: 90px;  
             border-radius: 30px; 
             position: relative;
             left: 230px;
