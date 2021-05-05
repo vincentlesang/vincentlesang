@@ -21,7 +21,7 @@
             -13px -13px 20px #ffffff"
             title="r" alt="r"> 
             
-<div style="display: inline-block; top: 140px; width:157.5px; height: 90px;  
+<div style="display: inline-block; top: 160px; width:157.5px; height: 90px;  
             border-radius: 60px; 
             position: relative;
             left: 5px;
@@ -36,7 +36,7 @@
             -13px -13px 20px #ffffff"
             title="mark" alt="mark" > 
             
-<div style="display: inline-block; top: -45px; width:245px; height: 245px;   
+<div style="display: inline-block; top: -50px; width:230px; height: 230px;   
             border-radius: 50%; 
             position: relative;
             left: 235px;
@@ -53,7 +53,7 @@
             -13px -13px 20px #ffffff"
             title="hold" alt="hold"> 
             
- <div style="display: inline-block; top: 45px; width:157.5px; height: 90px;  
+ <div style="display: inline-block; top: 50px; width:157.5px; height: 90px;  
             border-radius: 30px; 
             position: relative;
             left: 235px;
