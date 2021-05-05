@@ -18,9 +18,9 @@
             background: repeating-linear-gradient(
              to bottom,
              #FF000c,
-             #FF000c 1px,
-             #FF0000 1px,
-             #FF0000 2px
+             #FF000c 0.5px,
+             #FF0000 0.5px,
+             #FF0000 1px
             );
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
@@ -33,9 +33,9 @@
             background: repeating-radial-gradient(
              circle,
              #ffb347,
-             #ffb347 1px,
-             orange 1px, 
-             orange 2px 
+             #ffb347 0.5px,
+             orange 0.5px, 
+             orange 1px 
              );
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
@@ -58,9 +58,9 @@
             background: repeating-linear-gradient(
              to bottom,
              #c0FFFF,
-             #c0FFFF 1px,
-             #00FFFF 1px,
-             #00FFFF 2px
+             #c0FFFF 0.5px,
+             #00FFFF 0.5px,
+             #00FFFF 1px
             );
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
