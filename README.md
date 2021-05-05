@@ -21,7 +21,7 @@
             -13px -13px 20px #ffffff"
             title="r" alt="r"> 
             
-<div style="display: inline-block; top: 160px; width:157.5px; height: 90px;  
+<div style="display: inline-block; top: 170px; width:157.5px; height: 90px;  
             border-radius: 60px; 
             position: relative;
             left: 24px;
@@ -37,12 +37,12 @@
             -13px -13px 20px #ffffff"
             title="mark" alt="mark" > 
             
-<div style="display: inline-block; top: -50px; width:230px; height: 230px;   
+<div style="display: inline-block; top: -48px; width:215px; height: 215px;   
             border-radius: 50%; 
             position: relative;
             left: 156px;
-            margin-right: 15px;
-            margin-left: 15px;
+            margin-right: 30px;
+            margin-left: 30px;
             background: repeating-radial-gradient(
              circle,
              #ffb347,
@@ -54,7 +54,7 @@
             -13px -13px 20px #ffffff"
             title="hold" alt="hold"> 
             
- <div style="display: inline-block; top: 50px; width:157.5px; height: 90px;  
+ <div style="display: inline-block; top: 48px; width:157.5px; height: 90px;  
             border-radius: 30px; 
             position: relative;
             left: 235px;
