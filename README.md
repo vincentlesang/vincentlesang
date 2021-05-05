@@ -29,7 +29,7 @@
 <div style="display: inline-block; top: -30px; width:157.5px; height: 157.5px;   
             border-radius: 50%; 
             position: relative;
-            left: 225px;
+            left: 228px;
             background: repeating-radial-gradient(
              circle,
              #ffb347,
