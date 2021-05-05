@@ -41,8 +41,8 @@
             border-radius: 50%; 
             position: relative;
             left: 162px;
-            margin-right: 30px;
-            margin-left: 30px;
+            margin-right: 45px;
+            margin-left: 45px;
             background: repeating-radial-gradient(
              circle,
              #ffb347,
