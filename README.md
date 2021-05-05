@@ -39,9 +39,9 @@
 <div style="display: inline-block; top: -45px; width:245px; height: 245px;   
             border-radius: 50%; 
             position: relative;
-            left: 245px;
-            margin-right: 6px;
-            margin-left: 6px;
+            left: 235px;
+            margin-right: 20px;
+            margin-left: 20px;
             background: repeating-radial-gradient(
              circle,
              #ffb347,
@@ -56,7 +56,7 @@
  <div style="display: inline-block; top: 45px; width:157.5px; height: 90px;  
             border-radius: 30px; 
             position: relative;
-            left: 245px;
+            left: 235px;
             background: repeating-linear-gradient(
              to bottom,
              #c0FFFF,
