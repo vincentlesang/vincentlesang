@@ -33,23 +33,13 @@
             background: repeating-radial-gradient(
              circle,
              #ffb347,
-             #ffb347 0.5px,
-             orange 0.5px, 
-             orange 1px 
+             #ffb347 1px,
+             orange 1px, 
+             orange 2px 
              );
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
             title="hold" alt="hold"> 
-            
- <div style="width:52.5px; height: 52.5px;   
-            border-radius: 50%; 
-            background: radial-gradient(
-             #ffb347,
-             black
-             );
-            box-shadow: 13px 13px 20px #cbced1,
-            -13px -13px 20px #ffffff"
-            title="r" alt="r"> 
             
  <div style="display: inline-block; top: 30px; width:157.5px; height: 90px;  
             border-radius: 30px; 
