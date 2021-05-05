@@ -25,7 +25,7 @@
             border-radius: 60px; 
             position: relative;
             left: 12px;
-            margin-left: 20px;
+            margin-right: 20px;
             background: repeating-linear-gradient(
              to bottom,
              #FF000f,
@@ -41,8 +41,8 @@
             border-radius: 50%; 
             position: relative;
             left: 235px;
-            margin-right: 6px;
-            margin-left: 6px;
+            margin-right: 12px;
+            margin-left: 12px;
             background: repeating-radial-gradient(
              circle,
              #ffb347,
