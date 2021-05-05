@@ -4,7 +4,7 @@
             top: 1px;" title="logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" width="120" height="68"> 
             
 
-<div style="width:700px; height: 400px; padding: 60px 12px 5px;
+<div style="width:700px; height: 400px; padding: 60px 17px 5px;
             border-radius: 40px; 
             background: #ecf0f3;
             box-shadow: 13px 13px 20px #cbced1,
@@ -21,10 +21,10 @@
             -13px -13px 20px #ffffff"
             title="r" alt="r"> 
             
-<div style="display: inline-block; top: 160px; width:157.5px; height: 90px;  
+<div style="display: inline-block; top: 158px; width:157.5px; height: 90px;  
             border-radius: 60px; 
             position: relative;
-            left: 12px;
+            left: 17px;
             background: repeating-linear-gradient(
              to bottom,
              #FF000f,
@@ -39,7 +39,7 @@
 <div style="display: inline-block; top: -30px; width:210px; height: 210px;   
             border-radius: 50%; 
             position: relative;
-            left: 220px;
+            left: 230px;
             background: repeating-radial-gradient(
              circle,
              #ffb347,
@@ -54,7 +54,7 @@
  <div style="display: inline-block; top: 30px; width:157.5px; height: 90px;  
             border-radius: 30px; 
             position: relative;
-            left: 220px;
+            left: 230px;
             background: repeating-linear-gradient(
              to bottom,
              #c0FFFF,
