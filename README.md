@@ -22,7 +22,7 @@
             border-radius: 50%; 
             position: relative;
             left: 225px;
-            background: background: radial-gradient(white, orange);
+            background: radial-gradient(white, orange);
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
             title="hold" alt="hold"> 
