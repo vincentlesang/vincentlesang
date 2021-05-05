@@ -17,10 +17,10 @@
             left: 20px;
             background: repeating-linear-gradient(
              to bottom,
-             #FF0000,
-             #FF0000 1px,
+             #FF000c,
              #FF000c 1px,
-             #FF000c 2px
+             #FF0000 1px,
+             #FF0000 2px
             );
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
@@ -45,7 +45,13 @@
             border-radius: 30px; 
             position: relative;
             left: 230px;
-            background: #00FFFF;
+            background: repeating-linear-gradient(
+             to bottom,
+             #c0FFFF,
+             #c0FFFF 1px,
+             #00FFFF 1px,
+             #00FFFF 2px
+            );
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
             title="score" alt="score"> 
