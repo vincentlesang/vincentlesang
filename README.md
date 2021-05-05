@@ -25,7 +25,7 @@
             border-radius: 60px; 
             position: relative;
             left: 24px;
-            margin-right: 12px;
+            margin-right: 20px;
             background: repeating-linear-gradient(
              to bottom,
              #FF000f,
