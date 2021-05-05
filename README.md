@@ -4,7 +4,7 @@
             top: 1px;" title="logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" width="120" height="68"> 
             
 
-<div style="width:700px; height: 400px; padding: 60px 3px 5px;
+<div style="width:700px; height: 400px; padding: 60px 20px 5px;
             border-radius: 40px; 
             background: #ecf0f3;
             box-shadow: 13px 13px 20px #cbced1,
@@ -14,7 +14,7 @@
 <div style="display: inline-block; top: 180px; width:157.5px; height: 90px;  
             border-radius: 60px; 
             position: relative;
-            left: 3px;
+            left: 20px;
             background: #FF0000;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
