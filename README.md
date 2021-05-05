@@ -27,9 +27,9 @@
             background: repeating-radial-gradient(
              circle,
              #ffb347,
-             #ffb347 10px,
-             orange 10px, 
-             orange 20px 
+             #ffb347 1px,
+             orange 1px, 
+             orange 2px 
              );
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
