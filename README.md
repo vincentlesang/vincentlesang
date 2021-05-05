@@ -36,7 +36,7 @@
             -13px -13px 20px #ffffff"
             title="mark" alt="mark" > 
             
-<div style="display: inline-block; top: -45px; width:210px; height: 210px;   
+<div style="display: inline-block; top: -45px; width:262.5px; height: 262.5px;   
             border-radius: 50%; 
             position: relative;
             left: 225px;
