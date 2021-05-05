@@ -39,7 +39,7 @@
 <div style="display: inline-block; top: -45px; width:210px; height: 210px;   
             border-radius: 50%; 
             position: relative;
-            left: 246px;
+            left: 240px;
             background: repeating-radial-gradient(
              circle,
              #ffb347,
@@ -54,7 +54,7 @@
  <div style="display: inline-block; top: 45px; width:157.5px; height: 90px;  
             border-radius: 30px; 
             position: relative;
-            left: 246px;
+            left: 240px;
             background: repeating-linear-gradient(
              to bottom,
              #c0FFFF,
