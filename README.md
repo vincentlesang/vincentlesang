@@ -12,7 +12,7 @@
 <div style="display: inline-block; top: 180px; width:157.5px; height: 90px;  
             border-radius: 60px; 
             position: relative;
-            left: 1px;
+            left: 3px;
             background: #FF0000;
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
