@@ -43,12 +43,9 @@
             
  <div style="width:52.5px; height: 52.5px;   
             border-radius: 50%; 
-            background: repeating-radial-gradient(
-             circle,
+            background: radial-gradient(
              #ffb347,
-             #ffb347 1px,
-             black 1px, 
-             black 2px 
+             black
              );
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
