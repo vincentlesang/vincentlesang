@@ -4,7 +4,7 @@
             top: 1px;" title="logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" width="120" height="68"> 
             
 
-<div style="width:700px; height: 400px; padding: 60px 27px 5px;
+<div style="width:700px; height: 400px; padding: 60px 24px 5px;
             border-radius: 40px; 
             background: #ecf0f3;
             box-shadow: 13px 13px 20px #cbced1,
@@ -24,7 +24,7 @@
 <div style="display: inline-block; top: 170px; width:157.5px; height: 90px;  
             border-radius: 60px; 
             position: relative;
-            left: 27px;
+            left: 24px;
             margin-right: 12px;
             background: repeating-linear-gradient(
              to bottom,
