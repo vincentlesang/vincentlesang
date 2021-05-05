@@ -18,9 +18,9 @@
             background: repeating-linear-gradient(
              to bottom,
              #FF0000,
-             #FF0000 10px,
-             #FF0001 10px,
-             #FF0001 20px
+             #FF0000 1px,
+             #FF000c 1px,
+             #FF000c 2px
             );
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
