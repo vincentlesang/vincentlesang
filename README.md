@@ -15,7 +15,13 @@
             border-radius: 60px; 
             position: relative;
             left: 20px;
-            background: #FF0000;
+            repeating-linear-gradient(
+             to bottom,
+             #FF0000,
+             #FF0000 10px,
+             #FF0001 10px,
+             #FF0001 20px
+            );
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
             title="mark" alt="mark" > 
