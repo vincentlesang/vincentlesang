@@ -11,7 +11,7 @@
             -13px -13px 20px #ffffff"
             title="showcard">
             
-<div style="display: inline-block; top: 50px; width:157.5px; height: 157.5px;   
+<div style="display: inline-block; top: 50px; width:52.5px; height: 52.5px;   
             border-radius: 50%; 
             overflow: hidden;
             position: relative;
@@ -21,7 +21,7 @@
             -13px -13px 20px #ffffff"
             title="r" alt="r"> 
             
-<div style="display: inline-block; top: 140px; width:157.5px; height: 90px;  
+<div style="display: inline-block; top: 180px; width:157.5px; height: 90px;  
             border-radius: 60px; 
             position: relative;
             left: 20px;
