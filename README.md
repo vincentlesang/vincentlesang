@@ -41,6 +41,19 @@
             -13px -13px 20px #ffffff"
             title="hold" alt="hold"> 
             
+ <div style="width:52.5px; height: 52.5px;   
+            border-radius: 50%; 
+            background: repeating-radial-gradient(
+             circle,
+             #ffb347,
+             #ffb347 1px,
+             black 1px, 
+             black 2px 
+             );
+            box-shadow: 13px 13px 20px #cbced1,
+            -13px -13px 20px #ffffff"
+            title="r" alt="r"> 
+            
  <div style="display: inline-block; top: 30px; width:157.5px; height: 90px;  
             border-radius: 30px; 
             position: relative;
