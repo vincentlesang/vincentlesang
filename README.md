@@ -32,7 +32,7 @@
             left: 225px;
             background: repeating-radial-gradient(
              circle,
-             #ffb347 0.5px,
+             #ffb347,
              #ffb347 0.5px,
              orange 0.5px, 
              orange 1px 
