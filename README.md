@@ -11,14 +11,24 @@
             -13px -13px 20px #ffffff"
             title="showcard">
             
+<div style="width:52.5px; height: 52.5px;   
+            border-radius: 50%; 
+            background: radial-gradient(
+             #ffb347,
+             black
+             );
+            box-shadow: 13px 13px 20px #cbced1,
+            -13px -13px 20px #ffffff"
+            title="r" alt="r"> 
+            
 <div style="display: inline-block; top: 180px; width:157.5px; height: 90px;  
             border-radius: 60px; 
             position: relative;
             left: 20px;
             background: repeating-linear-gradient(
              to bottom,
-             #FF000c,
-             #FF000c 0.5px,
+             #FF000f,
+             #FF000f 0.5px,
              #FF0000 0.5px,
              #FF0000 1px
             );
