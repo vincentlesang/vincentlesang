@@ -11,17 +11,7 @@
             -13px -13px 20px #ffffff"
             title="showcard">
             
-<div style="display: inline-block; top: 90px; width:157.5px; height: 157.5px;   
-            border-radius: 50%; 
-            overflow: hidden;
-            position: relative;
-            left: 225px;
-            background: radial-gradient(#ffb347, black);
-            box-shadow: 13px 13px 20px #cbced1,
-            -13px -13px 20px #ffffff"
-            title="r" alt="r"> 
-            
-<div style="display: inline-block; top: 90px; width:157.5px; height: 90px;  
+<div style="display: inline-block; top: 180px; width:157.5px; height: 90px;  
             border-radius: 60px; 
             overflow: hidden;
             position: relative;
