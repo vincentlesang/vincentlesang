@@ -36,10 +36,10 @@
             -13px -13px 20px #ffffff"
             title="mark" alt="mark" > 
             
-<div style="display: inline-block; top: -30px; width:210px; height: 210px;   
+<div style="display: inline-block; top: -45px; width:210px; height: 210px;   
             border-radius: 50%; 
             position: relative;
-            left: 230px;
+            left: 250px;
             background: repeating-radial-gradient(
              circle,
              #ffb347,
@@ -51,10 +51,10 @@
             -13px -13px 20px #ffffff"
             title="hold" alt="hold"> 
             
- <div style="display: inline-block; top: 30px; width:157.5px; height: 90px;  
+ <div style="display: inline-block; top: 45px; width:157.5px; height: 90px;  
             border-radius: 30px; 
             position: relative;
-            left: 230px;
+            left: 250px;
             background: repeating-linear-gradient(
              to bottom,
              #c0FFFF,
