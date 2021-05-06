@@ -16,13 +16,14 @@
             
 <div style="width:52.5px; height: 52.5px;   
             border-radius: 50%; 
+            transition: width 0.5s;
             background: radial-gradient(
              #ffb347,
              black
              );
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
-            title="realplanet" alt="realplanet" hover="border-radius : 20%;" > 
+            title="realplanet" alt="realplanet"> 
             
 <div style="display: inline-block; top: 170px; width:157.5px; height: 90px;  
             border-radius: 60px; 
