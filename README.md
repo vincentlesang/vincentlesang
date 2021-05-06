@@ -16,7 +16,7 @@
             
 <div style="width:52.5px; height: 52.5px;   
             border-radius: 50%; 
-            transition: width 0.5s;
+            transition: width 2s;
             background: radial-gradient(
              #ffb347,
              black
