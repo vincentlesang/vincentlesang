@@ -14,7 +14,7 @@
             -13px -13px 20px #ffffff"
             title="showcard">
             
-<div :hover {border-radius : 20%}; style="width:52.5px; height: 52.5px;   
+<div style="width:52.5px; height: 52.5px;   
             border-radius: 50%; 
             background: radial-gradient(
              #ffb347,
@@ -22,7 +22,7 @@
              );
             box-shadow: 13px 13px 20px #cbced1,
             -13px -13px 20px #ffffff"
-            title="realplanet" alt="realplanet"> 
+            title="realplanet" alt="realplanet" hover ="border-radius : 20%;" > 
             
 <div style="display: inline-block; top: 170px; width:157.5px; height: 90px;  
             border-radius: 60px; 
