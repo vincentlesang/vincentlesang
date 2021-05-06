@@ -5,7 +5,7 @@
             
 <a href="https://calendly.com/vincentlesang">BOOK A MEETING</a> With Vincent Lesang    
 
-<a href="https://www.reddit.com/user/capetown-doteye">RUN THIS GAME NOW</a> On Your Browser   
+<a href="https://www.reddit.com/user/capetown-doteye">RUN THIS GAME NOW</a> On Your Computer   
             
 <div style="width:700px; height: 400px; padding: 60px 27px 5px;
             border-radius: 40px; 
