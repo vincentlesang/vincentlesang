@@ -14,7 +14,7 @@
             -13px -13px 20px #ffffff"
             title="showcard">
             
-<div style="width:52.5px; height: 52.5px;   
+<div :hover {border-radius : 20%}; style="width:52.5px; height: 52.5px;   
             border-radius: 50%; 
             background: radial-gradient(
              #ffb347,
