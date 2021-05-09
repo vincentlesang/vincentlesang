@@ -1,0 +1,104 @@
+<!DOCTYPE  html>
+<html>
+  <head>
+    <meta  charset="utf-8">
+    <title>FIRST GAME -VL-</title>
+  </head>
+  <body>
+
+<div style="width:700px; height: 400px; padding: 60px 27px 5px;
+            border-radius: 40px; 
+            background: #ecf0f3;
+            box-shadow: 13px 13px 20px #cbced1,
+            -13px -13px 20px #ffffff"
+            title="showcard">
+            
+<div style="width:52.5px; height: 52.5px;   
+            border-radius: 50%; 
+            transition: width 2s;
+            background: radial-gradient(
+             #ffb347,
+             black
+             );
+            box-shadow: 13px 13px 20px #cbced1,
+            -13px -13px 20px #ffffff"
+            title="realplanet" alt="realplanet"> 
+            
+<div style="display: inline-block; top: 170px; width:157.5px; height: 90px;  
+            border-radius: 60px; 
+            position: relative;
+            left: 27px;
+            margin-right: 12px;
+            background: repeating-linear-gradient(
+             to bottom,
+             #FF000f,
+             #FF000f 0.5px,
+             #FF0000 0.5px,
+             #FF0000 1px
+            );
+            box-shadow: 13px 13px 20px #cbced1,
+            -13px -13px 20px #ffffff"
+            title="mark" alt="mark" > 
+            
+<div style="display: inline-block; top: -48px; width:215px; height: 215px;   
+            border-radius: 50%; 
+            position: relative;
+            left: 144px;
+            margin-right: 45px;
+            margin-left: 45px;
+            background: repeating-radial-gradient(
+             circle,
+             #ffb347,
+             #ffb347 1px,
+             orange 1px, 
+             orange 2px 
+             );
+            box-shadow: 13px 13px 20px #cbced1,
+            -13px -13px 20px #ffffff"
+            title="hold" alt="hold"> 
+            
+ <div style="display: inline-block; top: 48px; width:157.5px; height: 90px;  
+            border-radius: 30px; 
+            position: relative;
+            left: 235px;
+            margin-left: 12px;
+            background: repeating-linear-gradient(
+             to bottom,
+             #c0FFFF,
+             #c0FFFF 0.5px,
+             #00FFFF 0.5px,
+             #00FFFF 1px
+            );
+            box-shadow: 13px 13px 20px #cbced1,
+            -13px -13px 20px #ffffff"
+            title="score" alt="score"> 
+
+</div>
+
+    <script>
+   
+      var memory = new  WebAssembly.Memory({initial:1});
+
+      function  consoleLogString(offset, length) {
+        var  bytes = new  Uint8Array(memory.buffer, offset, length);
+        var  string = new  TextDecoder('utf8').decode(bytes);
+        console.log(string);
+      };
+
+      var  importObject = {
+        console: {
+          log:  consoleLogString
+        },
+        js : {
+          mem:  memory
+        }
+      };
+     
+      WebAssembly.instantiateStreaming(fetch('firstgamevl.wasm'), importObject)
+      .then(obj  => {
+        obj.instance.exports.helloWorld();
+      });
+     
+    </script>
+  </body>
+</html>
