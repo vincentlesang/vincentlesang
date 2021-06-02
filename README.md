@@ -5,7 +5,10 @@
             
 <a href="https://calendly.com/vincentlesang">BOOK A MEETING</a> With Vincent Lesang    
 
-<a href="https://www.reddit.com/user/capetown-doteye/comments/k76erf/a_publishing_automator/gxjhun5?utm_source=share&utm_medium=web2x&context=3">RUN THIS GAME NOW</a> On Your Computer   
+Powered by
+-MortalEnemyMagazine
+-Uxdb
+-Meta-os
             
 <div style="width:700px; height: 400px; padding: 60px 27px 5px;
             border-radius: 40px; 
