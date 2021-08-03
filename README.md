@@ -10,7 +10,7 @@ Powered by
 -Uxdb
 -Meta-os
 
-<a href="https://za.pinterest.com/vincentlesang/">Our Pinterest Page</a> With Vincent Lesang    
+<a href="https://za.pinterest.com/pin/708965166345357266/">Our Pinterest Page</a> With Vincent Lesang    
             
 <div style="width:700px; height: 400px; padding: 60px 27px 5px;
             border-radius: 40px; 
