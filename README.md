@@ -3,7 +3,7 @@
 <img style="justify-content: center; text-align: center; position: absolute;
             top: 1px;" title="logo" src="https://github.com/vincentlesang/vincentlesang.github.io/blob/master/logosubs.png" width="120" height="68"> 
             
-<a href="https://calendly.com/vincentlesang">BOOK A MEETING</a> With Vincent Lesang    
+<a href="http://68.183.47.133/">GRAPHdiary</a> By Vincent Lesang    
 
 Powered by
 -MortalEnemyMagazine
