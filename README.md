@@ -6,9 +6,9 @@
 <a href="http://68.183.47.133/">GRAPHdiary</a> By Vincent Lesang    
 
 Powered by
--MortalEnemyMagazine
--Uxdb
--Meta-os
+-APN system interface
+-EDN content network
+-GCL embedded spreadsheet
 
 <a href="https://za.pinterest.com/pin/708965166345357266/">Our Pinterest Page</a> With Vincent Lesang    
             
